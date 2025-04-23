@@ -1,10 +1,3 @@
-@font-face {
-    font-family: 'OCR-A Extended';
-    src: url('Fonts/OCRAEXT.TTF') format('truetype');
-    font-style: normal;
-}
-
-
 body {
     background-color: #000000;
 }
@@ -12,7 +5,7 @@ body {
 #grand {
     text-align: center;
     color: #00FF00;
-    font-family: 'OCR-A Extended', sans-serif;
+    font-family: Ebrima, sans-serif;
 }
 
 p {
