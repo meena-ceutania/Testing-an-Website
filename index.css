@@ -1,7 +1,6 @@
 @font-face {
-    font-family: 'OCR';
-    src: url('C:/windows/fonts/OCRAEXT.ttf') format('truetype');
-    font-weight: normal;
+    font-family: 'OCR-A Extended';
+    src: url('../fonts/OCRAEXT.ttf') format('truetype');
     font-style: normal;
     font-display: swap;
 }
@@ -14,7 +13,7 @@ body {
 #grand {
     text-align: center;
     color: #00FF00;
-    font-family: 'OCR';
+    font-family: 'OCR-A Extended';
 }
 
 p {
